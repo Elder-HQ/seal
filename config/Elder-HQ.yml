@@ -1,0 +1,24 @@
+# Please insert new items alphabetically.
+
+engineering:
+  members:
+    - antonio-elder
+    - danieljelder
+    - ds300
+    - jonathan-elder
+    - kristian-elder
+    - liamness
+
+  channel:
+    "#product"
+
+  exclude_titles:
+    - WIP
+
+  use_labels: true
+
+  exclude_labels:
+    - WIP
+
+  quotes:
+    - A review a day keeps the angry seal away

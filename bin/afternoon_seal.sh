@@ -1,9 +1,7 @@
 #!/bin/bash
 
 teams=(
-  data-informed-content
-  modelling-services
-  reliability-engineering
+  engineering
 )
 
 for team in ${teams[*]} ; do
